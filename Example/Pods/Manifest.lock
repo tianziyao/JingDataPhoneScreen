@@ -1,0 +1,16 @@
+PODS:
+  - JingDataPhoneScreen (0.1.0)
+
+DEPENDENCIES:
+  - JingDataPhoneScreen (from `../`)
+
+EXTERNAL SOURCES:
+  JingDataPhoneScreen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JingDataPhoneScreen: 5fa3548e1354f50ca292566a93630c3053b39890
+
+PODFILE CHECKSUM: fcbcc28221abfd3c21d39d81ddc6b0ac30e7e8dd
+
+COCOAPODS: 1.5.3

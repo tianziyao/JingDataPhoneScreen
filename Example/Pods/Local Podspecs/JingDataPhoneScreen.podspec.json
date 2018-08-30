@@ -1,0 +1,22 @@
+{
+  "name": "JingDataPhoneScreen",
+  "version": "0.1.0",
+  "summary": "A short description of JingDataPhoneScreen.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tianziyao/JingDataPhoneScreen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianziyao": "tianziyao@jingdata.com"
+  },
+  "source": {
+    "git": "https://github.com/tianziyao/JingDataPhoneScreen.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JingDataPhoneScreen/Classes/**/*"
+}

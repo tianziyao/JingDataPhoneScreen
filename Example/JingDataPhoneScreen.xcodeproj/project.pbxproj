@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* JingDataPhoneScreen_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JingDataPhoneScreen_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		637DCB26C7208FAE4DB67844 /* JingDataPhoneScreen.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JingDataPhoneScreen.podspec; path = ../JingDataPhoneScreen.podspec; sourceTree = "<group>"; };
-		650E23D6F7118308020B4EFE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		637DCB26C7208FAE4DB67844 /* JingDataPhoneScreen.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JingDataPhoneScreen.podspec; path = ../JingDataPhoneScreen.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		650E23D6F7118308020B4EFE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		88A012920C7EFA0C2EE009E3 /* Pods-JingDataPhoneScreen_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JingDataPhoneScreen_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JingDataPhoneScreen_Tests/Pods-JingDataPhoneScreen_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FB61AC242FF58A438244C405 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FB61AC242FF58A438244C405 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
