@@ -1,5 +1,7 @@
 use_frameworks!
 
+source '/Users/Tian/.cocoapods/repos/TZYSpecs'
+
 target 'JingDataPhoneScreen_Example' do
   pod 'JingDataPhoneScreen', :path => '../'
 

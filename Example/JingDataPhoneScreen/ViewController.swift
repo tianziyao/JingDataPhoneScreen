@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import JingDataPhoneScreen
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        JingDataPhoneScreen.current.size
         // Do any additional setup after loading the view, typically from a nib.
     }
 

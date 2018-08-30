@@ -34,7 +34,7 @@ public enum JingDataPhoneScreen {
         }
     }
     
-    public var currentPhoneScreen: JingDataPhoneScreen {
+    public static var current: JingDataPhoneScreen {
         let currentScreenSize = UIScreen.main.bounds.size
         let screens: [JingDataPhoneScreen] = [.inch3_5, .inch4_0, .inch4_7, .inch5_5, .inch5_8]
         var currentScreen: JingDataPhoneScreen = .unknown

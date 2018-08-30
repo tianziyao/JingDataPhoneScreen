@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JingDataPhoneScreen'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '获取当前设备的屏幕尺寸.'
 
   s.homepage         = 'https://github.com/tianziyao/JingDataPhoneScreen'
@@ -19,5 +19,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'JingDataPhoneScreen/Classes/**/*'
+  
+  s.dependency 'JingDataPhoneScreen'
 
 end

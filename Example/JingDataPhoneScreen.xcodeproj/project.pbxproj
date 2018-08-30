@@ -212,10 +212,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = M6A2LG544R;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = M6A2LG544R;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -473,6 +475,7 @@
 			baseConfigurationReference = 2ADCA001A5A29CCC7AE07EF1 /* Pods-JingDataPhoneScreen_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M6A2LG544R;
 				INFOPLIST_FILE = JingDataPhoneScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -488,6 +491,7 @@
 			baseConfigurationReference = 3775369A01BE09E457B9C296 /* Pods-JingDataPhoneScreen_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M6A2LG544R;
 				INFOPLIST_FILE = JingDataPhoneScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -502,6 +506,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 59F68CA811FD5BBACFF65EF3 /* Pods-JingDataPhoneScreen_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = M6A2LG544R;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -524,6 +529,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 88A012920C7EFA0C2EE009E3 /* Pods-JingDataPhoneScreen_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = M6A2LG544R;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
