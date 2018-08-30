@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JingDataPhoneScreen'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JingDataPhoneScreen.'
+  s.summary          = '获取当前设备的屏幕尺寸.'
 
   s.homepage         = 'https://github.com/tianziyao/JingDataPhoneScreen'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
