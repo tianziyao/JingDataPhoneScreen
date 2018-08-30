@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JingDataPhoneScreen_Example' do
+  pod 'JingDataPhoneScreen', :path => '../'
+
+  target 'JingDataPhoneScreen_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
